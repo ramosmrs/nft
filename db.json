@@ -1,0 +1,19 @@
+{
+    "name": "Lagoa",
+    "description": "Lagoa Digital Paint",
+    "image": "https://ipfs.io/ipfs/QmUE4wYfEPbzidhzX5gs1RTrjXbzRKSMxEHPkUCSukQDrk?filename=Lagoa_preview.jpg",
+    "attributes": [
+        {
+            "param": "Serial#",
+            "value": "202104050001"
+        }
+        {
+            "param": "Date",
+            "value": "2021/04/05"
+        }
+        {
+            "param": "Creator",
+            "value": "MRS Art Gallery"
+        }
+    ]
+}
