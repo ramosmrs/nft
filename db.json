@@ -1,11 +1,10 @@
 {
-    "name": "Lagoa",
-    "description": "Lagoa Digital Paint",
-    "image": "https://ipfs.io/ipfs/QmUE4wYfEPbzidhzX5gs1RTrjXbzRKSMxEHPkUCSukQDrk?filename=Lagoa_preview.jpg",
-    "attributes": [
+    "tokens": [
         {
-            "param": "Serial#",
-            "value": "202104050001"
+            "id": 202104050001,
+            "description": "Lagoa Digital Paint",
+            "image": "https://ipfs.io/ipfs/QmUE4wYfEPbzidhzX5gs1RTrjXbzRKSMxEHPkUCSukQDrk?filename=Lagoa_preview.jpg",
+            "name": "Lagoa"
         }
-    ]
+     ]
 }
